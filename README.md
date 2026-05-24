@@ -1,16 +1,16 @@
-\# BACEN Dispensation Automation
+# BACEN Dispensation Automation
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
-!\[Selenium](https://img.shields.io/badge/Selenium-Web%20Automation-green)
+![Selenium](https://img.shields.io/badge/Selenium-Web%20Automation-green)
 
-!\[BACEN](https://img.shields.io/badge/BACEN-Regulatory%20Automation-red)
+![BACEN](https://img.shields.io/badge/BACEN-Regulatory%20Automation-red)
 
-!\[Excel](https://img.shields.io/badge/Excel-Batch%20Input-success)
+![Excel](https://img.shields.io/badge/Excel-Batch%20Input-success)
 
-!\[Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 
 
@@ -22,7 +22,7 @@ Python automation for batch dispensation requests inside SCR/BACEN environments.
 
 
 
-\# Overview
+# Overview
 
 
 
@@ -38,7 +38,7 @@ The solution processes multiple institutions and reporting periods, performs aut
 
 
 
-\# Problem Solved
+# Problem Solved
 
 
 
@@ -54,57 +54,31 @@ This automation enabled batch processing of multiple institutions and reporting 
 
 
 
-\# Main Features
+# Main Features
 
 
 
-\- Batch institution processing
+- Batch institution processing
 
-\- Selenium web automation
+- Selenium web automation
 
-\- SCR/BACEN integration
+- SCR/BACEN integration
 
-\- Manual login support
+- Manual login support
 
-\- Dynamic dropdown selection
+- Dynamic dropdown selection
 
-\- Reporting period normalization
+- Reporting period normalization
 
-\- Automatic form submission
+- Automatic form submission
 
-\- Confirmation workflow automation
+- Confirmation workflow automation
 
-\- Screenshot capture on failures
+- Screenshot capture on failures
 
-\- Excel result generation
+- Excel result generation
 
-\- Error handling and logging support
-
-
-
-\---
-
-
-
-\# Technical Stack
-
-
-
-\- Python
-
-\- Selenium
-
-\- pandas
-
-\- openpyxl
-
-\- xlsxwriter
-
-\- Web automation
-
-\- Regulatory operations automation
-
-\- Excel processing
+- Error handling and logging support
 
 
 
@@ -112,7 +86,33 @@ This automation enabled batch processing of multiple institutions and reporting 
 
 
 
-\# Project Structure
+# Technical Stack
+
+
+
+- Python
+
+- Selenium
+
+- pandas
+
+- openpyxl
+
+- xlsxwriter
+
+- Web automation
+
+- Regulatory operations automation
+
+- Excel processing
+
+
+
+\---
+
+
+
+# Project Structure
 
 
 
@@ -158,7 +158,7 @@ bacen-dispensa-automation/
 
 
 
-\# Operational Impact
+# Operational Impact
 
 
 
@@ -174,7 +174,7 @@ The solution improved execution consistency, enabled batch processing and reduce
 
 
 
-\# Security \& Privacy
+# Security & Privacy
 
 
 
@@ -190,23 +190,23 @@ All examples must be anonymized before publication.
 
 
 
-\# Future Improvements
+# Future Improvements
 
 
 
-\- Add headless browser execution
+- Add headless browser execution
 
-\- Add structured logging
+- Add structured logging
 
-\- Add retry logic
+- Add retry logic
 
-\- Add parallel execution
+- Add parallel execution
 
-\- Add execution dashboard
+- Add execution dashboard
 
-\- Add automated validation rules
+- Add automated validation rules
 
-\- Add notification support
+- Add notification support
 
-\- Add configurable execution parameters
+- Add configurable execution parameters
 
